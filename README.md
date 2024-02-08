@@ -2,16 +2,15 @@
 from GitHub import ReadMe
 
 class About(ReadMe):
-    "/Cliffsus4117/Cliffsus4117/reademe.md"
+    "/Chaosxz/Chaosxz/reademe.md"
 
     def __init__(self):
-        self.username = "Cliff"
+        self.username = "Chaosxz"
         self.contacts = {
-            "Discord": "cliffxj4117",
-            "Bio": "guns.lol/cliff"
+            "Discord": "!chaos2k",
+            "Bio": "guns.lol/chaos2k"
         }
         self.alises = [
-            "cliff",
-            "kylx"
+            "chaos2k",
         ]
         self.operating_system = "Windows"
